@@ -1,4 +1,4 @@
-<img src="./Social.png" width="60" height="60" style="border-radius: 50%; overflow: hidden;" />
+<img src="./Social.png" width="1920" height="1080" style="border-radius: 50%; overflow: hidden;" />
 
 # Verdana Wellness
 
