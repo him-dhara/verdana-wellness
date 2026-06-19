@@ -1,3 +1,5 @@
+<img src="./Social.png" width="60" height="60" style="border-radius: 50%; overflow: hidden;" />
+
 # Verdana Wellness
 
 > A mental health & wellness website - designed and built from scratch in Framer.
