@@ -140,4 +140,6 @@ And honestly?? That's the only kind of website worth building. 🙃
 
 ---
 
-<img src="./BW-PNG.png" width="60" height="60" /> *Designed by Himanshu Dhara - Framer Developer & Brand Designer - 2026*
+<img src="./Profile Image.png" width="60" height="60" style="border-radius: 50%; overflow: hidden;" />
+
+*Designed & built by Himanshu Dhara - Framer Developer & Brand Designer - 2026*
