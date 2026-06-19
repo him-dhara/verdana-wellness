@@ -68,4 +68,4 @@ Desktop
 
 ---
 
-<img src="./BW-PNG.png" width="60" height="60" /> *Designed & built by Himanshu Dhara - Framer Developer & Brand Designer - 2026*
+<img src="./Profile Image.png" width="60" height="60" /> *Designed & built by Himanshu Dhara - Framer Developer & Brand Designer - 2026*
